@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/408bp3b-9jxis.js"
+3:I[73871,["$2"],"ScrollRestore"]
+4:I[63172,["$2"],"PointerFX"]
+5:"/_next/static/chunks/0umf92h1sb77c.js"
+6:I[39756,["$5"],"default"]
+7:I[37457,["$5"],"default"]
+8:"/_next/static/chunks/2n5qeheznvl4u.js"
+9:I[22016,["$2","$8"],""]
+16:"ViewportBoundary"
+17:I[97367,["$5"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$5"],"$18"]
+1a:"$Sreact.suspense"
+:HL["/_next/static/chunks/1ahv0q2gmhhbj.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-[70vh] flex-col items-center justify-center gap-8 px-6 py-32 text-center","children":[["$","p",null,{"className":"font-display text-8xl text-primary sm:text-9xl","children":"404"}],["$","div",null,{"children":[["$","h1",null,{"className":"font-display text-2xl sm:text-3xl","children":"Essa página não existe"}],["$","p",null,{"className":"mt-3 max-w-md text-muted","children":"O endereço que você tentou acessar não foi encontrado. Veja alguns caminhos:"}]]}],["$","nav",null,{"aria-label":"Sugestões de navegação","className":"flex flex-wrap justify-center gap-3","children":[["$","$L9","#topo",{"href":"/#topo","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Início"}],["$","$L9","#sobre",{"href":"/#sobre","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Sobre"}],["$","$L9","#trajetoria",{"href":"/#trajetoria","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Trajetória"}],"$L10","$L11","$L12"]}]]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ahv0q2gmhhbj.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/408bp3b-9jxis.js","async":true}]],["$","html",null,{"lang":"pt-BR","className":"Y02NyW_variable ls6I-G_variable h-full","children":["$","body",null,{"className":"min-h-full flex flex-col bg-ink-950 text-paper","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Daniela Ciriaco\",\"url\":\"https://www.danielaciriaco.site\",\"jobTitle\":\"Agente Comunitária de Saúde e conselheira de saúde\",\"sameAs\":[\"https://www.instagram.com/danielaciriacooficial/\"]}"}}],["$","$L3",null,{}],["$","div",null,{"className":"progress","aria-hidden":"true"}],["$","$L4",null,{}],["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"flex min-h-[70vh] flex-col items-center justify-center gap-8 px-6 py-32 text-center","children":[["$","p",null,{"className":"font-display text-8xl text-primary sm:text-9xl","children":"404"}],["$","div",null,{"children":[["$","h1",null,{"className":"font-display text-2xl sm:text-3xl","children":"Essa página não existe"}],["$","p",null,{"className":"mt-3 max-w-md text-muted","children":"O endereço que você tentou acessar não foi encontrado. Veja alguns caminhos:"}]]}],["$","nav",null,{"aria-label":"Sugestões de navegação","className":"flex flex-wrap justify-center gap-3","children":[["$","$L9","#topo",{"href":"/#topo","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Início"}],["$","$L9","#sobre",{"href":"/#sobre","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Sobre"}],["$","$L9","#trajetoria",{"href":"/#trajetoria","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Trajetória"}],["$","$L9","#valores",{"href":"/#valores","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Valores"}],["$","$L9","#projetos",{"href":"/#projetos","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Projetos"}],["$","$L9","#contato",{"href":"/#contato","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Contato"}]]}]]}],[]]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0d26"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Daniela Ciriaco, Agente Comunitária de Saúde e conselheira de saúde"}],["$","meta","1",{"name":"description","content":"Mulher de Ceilândia, mãe, avó e profissional da saúde pública"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://www.danielaciriaco.site/"}],["$","meta","4",{"property":"og:title","content":"Daniela Ciriaco"}],["$","meta","5",{"property":"og:description","content":"Mulher de Ceilândia, mãe, avó e profissional da saúde pública"}],["$","meta","6",{"property":"og:url","content":"https://www.danielaciriaco.site/"}],["$","meta","7",{"property":"og:site_name","content":"Daniela Ciriaco"}],["$","meta","8",{"property":"og:locale","content":"pt_BR"}],["$","meta","9",{"property":"og:image","content":"https://www.danielaciriaco.site/opengraph-image?0153e40e59cbd3c9"}],["$","meta","10",{"property":"og:image:type","content":"image/png"}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}],null]}],"$L28"]}],"p":"$@29","v":null,"s":"$b"}},"a":"$@2a","u":"$@2b","b":"fjN3VRptpvZkCtKiuQR1z"}
+2c:I[97367,["$5"],"OutletBoundary"]
+2e:I[27201,["$5"],"IconMark"]
+10:["$","$L9","#valores",{"href":"/#valores","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Valores"}]
+11:["$","$L9","#projetos",{"href":"/#projetos","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Projetos"}]
+12:["$","$L9","#contato",{"href":"/#contato","className":"min-h-11 rounded-full border border-border px-5 py-2.5 text-sm font-semibold hover:border-primary hover:text-primary","children":"Contato"}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}]
+14:["$","$L2c",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+1b:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+1c:["$","meta","12",{"property":"og:image:height","content":"630"}]
+1d:["$","meta","13",{"property":"og:type","content":"website"}]
+1e:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","15",{"name":"twitter:title","content":"Daniela Ciriaco"}]
+20:["$","meta","16",{"name":"twitter:description","content":"Mulher de Ceilândia, mãe, avó e profissional da saúde pública"}]
+21:["$","meta","17",{"name":"twitter:image","content":"https://www.danielaciriaco.site/opengraph-image?0153e40e59cbd3c9"}]
+22:["$","meta","18",{"name":"twitter:image:type","content":"image/png"}]
+23:["$","meta","19",{"name":"twitter:image:width","content":"1200"}]
+24:["$","meta","20",{"name":"twitter:image:height","content":"630"}]
+25:["$","link","21",{"rel":"icon","href":"/icon.png?icon.2pqlhmife2jd7.png","sizes":"512x512","type":"image/png"}]
+26:["$","link","22",{"rel":"icon","href":"/icon.svg?icon.0-_h9cgm7qxac.svg","sizes":"any","type":"image/svg+xml"}]
+27:["$","$L2e","23",{}]
+28:["$","meta",null,{"name":"next-size-adjust","content":""}]
+b:300
+2d:null
+2b:true
+b:C
+2a:0
+d:"$undefined"
+a:"$undefined"
+29:"$undefined"
+15:"$undefined"
